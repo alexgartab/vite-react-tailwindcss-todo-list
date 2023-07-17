@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-mobile-light {
+    background-image: url(assets/images/bg-mobile-light.jpg);
+}
